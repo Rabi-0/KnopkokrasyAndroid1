@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KnopkokrasyAndroid1</string>
+    <string name="input_login">Введите логин:</string>
+    <string name="input_password">Введите пароль:</string>
+</resources>
