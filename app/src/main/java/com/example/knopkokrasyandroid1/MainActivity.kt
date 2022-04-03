@@ -18,13 +18,15 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun transition() {
-        val intent = Intent(this, MainActivity2::class.java)
+        val intent = Intent(this, Activity2::class.java)
         val login : EditText = findViewById(R.id.login)
         val password : EditText = findViewById(R.id.password)
         val incorrectSome: TextView = findViewById(R.id.textView)
-        intent.putExtra(MainActivity2.LOGIN_DATA,login.text.toString())
-        intent.putExtra(MainActivity2.PASSWORD_DATA,password.text.toString())
-        if (password.length() >7 && login.length()>2) startActivity(intent)
-        else incorrectSome.text = "Некорректный логин и/или пароль"
+        intent.putExtra(Activity2.LOGIN_DATA,login.text.toString())
+        intent.putExtra(Activity2.PASSWORD_DATA,password.text.toString())
+        if (password.length() >7 && login.length()>2 && password.text.toString().toLongOrNull() != null) startActivity(intent)
+        else if(login.length() < 3 && (password.length() <8 || password.text.toString().toLongOrNull() == null)) incorrectSome.text ="Некоректные логин и пароль"
+        else if(password.length() <8 || password.text.toString().toLongOrNull() == null) incorrectSome.text = "Некорректный пароль"
+        else incorrectSome.text =  "Некорректный логин"
     }
 }
