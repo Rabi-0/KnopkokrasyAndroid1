@@ -17,6 +17,5 @@ class SecondActivity : AppCompatActivity() {
 
     companion object{
         const val LOGIN_DATA = "loginData"
-        const val PASSWORD_DATA = "passwordData"
     }
 }
