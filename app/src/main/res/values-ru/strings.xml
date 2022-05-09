@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">KnopkokrasyAndroid1</string>
+    <!-- строки для фрагмента welcome -->
+    <string name="welcome_back">С возвращением</string>
+    <string name="email">Эл. почта</string>
+    <string name="password">Пароль</string>
+    <string name="sign_in">Войти</string>
+    <string name="sign_up">Вступить</string>
+    <string name="forgot_password">Забыли пароль?</string>
+    <string name="incorrect_password">некорректный пароль</string>
+    <string name="incorrect_email">некорректный мейл</string>
+    <!-- строки для фрагментаа join -->
+    <string name="join_community">Вступить в сообщество</string>
+    <string name="already_have_account">Уже есть аккаунт?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

@@ -3,9 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Rabi/AndroidStudioProjects/KnopkokrasyAndroid1/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Rabi/AndroidStudioProjects/KnopkokrasyAndroid1/app/src/main/res/drawable-v24/bg_button_tran_lignt.xml" value="0.1525" />
+        <entry key="..\:/Users/Rabi/AndroidStudioProjects/KnopkokrasyAndroid1/app/src/main/res/drawable-v24/bg_button_trans.xml" value="0.155" />
+        <entry key="..\:/Users/Rabi/AndroidStudioProjects/KnopkokrasyAndroid1/app/src/main/res/drawable/shape_input_text.xml" value="0.27" />
+        <entry key="..\:/Users/Rabi/AndroidStudioProjects/KnopkokrasyAndroid1/app/src/main/res/font/ropa_sans.xml" value="0.1412037037037037" />
+        <entry key="..\:/Users/Rabi/AndroidStudioProjects/KnopkokrasyAndroid1/app/src/main/res/layout-land/fragment_forgot_password.xml" value="0.23544973544973544" />
+        <entry key="..\:/Users/Rabi/AndroidStudioProjects/KnopkokrasyAndroid1/app/src/main/res/layout-land/fragment_join_community.xml" value="0.23544973544973544" />
+        <entry key="..\:/Users/Rabi/AndroidStudioProjects/KnopkokrasyAndroid1/app/src/main/res/layout-land/fragment_welcome_back.xml" value="0.23544973544973544" />
+        <entry key="..\:/Users/Rabi/AndroidStudioProjects/KnopkokrasyAndroid1/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/Rabi/AndroidStudioProjects/KnopkokrasyAndroid1/app/src/main/res/layout/activity_main2.xml" value="0.27309782608695654" />
+        <entry key="..\:/Users/Rabi/AndroidStudioProjects/KnopkokrasyAndroid1/app/src/main/res/layout/fragment_forgot_password.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/Rabi/AndroidStudioProjects/KnopkokrasyAndroid1/app/src/main/res/layout/fragment_join_community.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/Rabi/AndroidStudioProjects/KnopkokrasyAndroid1/app/src/main/res/layout/fragment_show_email.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/Rabi/AndroidStudioProjects/KnopkokrasyAndroid1/app/src/main/res/layout/fragment_welcome_back.xml" value="0.25" />
+        <entry key="..\:/Users/Rabi/AndroidStudioProjects/KnopkokrasyAndroid1/app/src/main/res/layout/main_activity.xml" value="0.24722222222222223" />
         <entry key="..\:/Users/Rabi/AndroidStudioProjects/KnopkokrasyAndroid1/app/src/main/res/layout/secondary_activity.xml" value="0.27309782608695654" />
+        <entry key="..\:/Users/Rabi/AndroidStudioProjects/KnopkokrasyAndroid1/app/src/main/res/layout/welcome_back.xml" value="0.278125" />
       </map>
     </option>
   </component>
